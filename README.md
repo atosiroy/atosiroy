@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atosi!
 - 👀 I’m interested in coding, music, science and tech
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning web dev and data anylysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @atosiii_ on insta
 
