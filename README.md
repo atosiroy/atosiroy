@@ -1,7 +1,7 @@
 ### 🙋🏻‍♀️ Hi, I’m Atosi!
 <hr>
 
-- 👀 I’m interested in coding, music, science and tech ; passionate about creating anything that looks cool 
+- 👀 I’m interested in coding, music, science and tech ; passionate about creating and designing
 - 🌱 I’m currently learning web dev for a tech career and data analysis for my research project at uni
 - 📚 and I'm a final year engineering student
 - 📫 How to reach me?
