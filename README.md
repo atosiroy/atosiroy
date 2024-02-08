@@ -8,7 +8,7 @@
   
   <a href="https://www.linkedin.com/in/atosiroy/">
     
-  <img align="left" alt="Atosi's linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
+  <img align="left" alt="Atosi's linkedin" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg">
   </a>
   <a href="https://twitter.com/atosicodes">
   <img align="left" alt="Atosi's twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /></a>
