@@ -11,7 +11,7 @@
   <img align="left" alt="Atosi's linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
   </a>
   <a href="https://twitter.com/atosicodes">
-  <img align="left" alt="Atosi's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+  <img align="left" alt="Atosi's twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /></a>
   <a href="https://www.instagram.com/atosiii_/">
   <img align="left" alt="Atosi's insta" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 
