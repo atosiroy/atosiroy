@@ -1,9 +1,9 @@
 ### 🙋🏻‍♀️ Hi, I’m Atosi!
 <hr>
 
-- 👀 I’m interested in coding, music, science and tech ; passionate about creating and designing
-- 🌱 I’m currently learning web dev for a tech career and data analysis for my research project at uni
-- 📚 and I'm a final year engineering student
+- 👀 machine learning and AI enthusiast
+- 🌱 SQL, Python for ML and DS
+- 📚 BSc in mechanical engineering
 - 📫 How to reach me?
   
   <a href="https://www.linkedin.com/in/atosiroy/">
